@@ -1,5 +1,5 @@
 ### 컴퓨터 공학과 프로그래밍 공부를 위한 커리큘럼 / 기록
-# 컴퓨터공학 커리큘럼
+
 
 [minnsane/TeachYourselfCS-KR](https://github.com/minnsane/TeachYourselfCS-KR/blob/main/README.md)
 
